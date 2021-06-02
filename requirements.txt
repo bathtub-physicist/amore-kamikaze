@@ -12,6 +12,6 @@ selenium==3.141.0
 six==1.15.0
 soupsieve==2.0.1
 update-checker==0.17
-urllib3==1.25.9
+urllib3==1.26.5
 websocket-client==0.57.0
 wincertstore==0.2
